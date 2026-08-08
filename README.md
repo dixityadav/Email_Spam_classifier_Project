@@ -74,8 +74,8 @@ The CSV should contain the message category and message text in its first two co
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sms-spam-detection.git
-cd sms-spam-detection
+git clone https://github.com/dixityadav/Email_Spam_classifier_Project.git
+cd Email_Spam_classifier_Project
 ```
 
 Install the required packages:
